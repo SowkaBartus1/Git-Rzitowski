@@ -6,6 +6,8 @@ int calculate(int a, int b)(
     return wynik;
 )
 
+pierwszy belkot
+
 void main()(
     printf("Dziala")
 )
